@@ -1,3 +1,2 @@
 # Demo-Site
-This is a demo site 
-for 
+This is a demo site
