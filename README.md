@@ -1,3 +1,3 @@
 # Demo-Site
 This is a demo site 
-for a beauty parlour website 
+for a beauty parlour 
