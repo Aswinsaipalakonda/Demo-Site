@@ -1,2 +1,2 @@
 # Demo-Site
-This is a demo site 🙂 for tutions  regarding home 🏡 and st
+This is a demo site 🙂 for tutions  regarding home 🏡 and students 
