@@ -1,2 +1,2 @@
 # Demo-Site
-This is a demo site 🙂 for tutions inka che
+This is a demo site 🙂 for tutions ink
