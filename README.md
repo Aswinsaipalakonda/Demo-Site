@@ -1,2 +1,2 @@
 # Demo-Site
-This is a demo site 🙂 for tutions inka cheyyali inka 
+This is a demo site 🙂 for tutions inka cheyyal
