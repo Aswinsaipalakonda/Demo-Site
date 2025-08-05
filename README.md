@@ -1,3 +1,3 @@
 # Demo-Site
-This is a demo site for tutions vgfffd bgdd bhgty
+This is a demo site for tutions vgfffd bgdd bh
 
