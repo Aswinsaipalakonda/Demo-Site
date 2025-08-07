@@ -6,4 +6,3 @@ This is a demo site for tutions.
 HTML5
 Css
 JS
-mail
