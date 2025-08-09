@@ -5,3 +5,4 @@ This is a demo site for tutions.
 
 1. HTML
 2. CSS3
+3. JS
