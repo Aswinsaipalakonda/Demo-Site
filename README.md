@@ -5,3 +5,4 @@ This is a demo site for home 🏡 tutions.
 
 - HTML
 - CSS
+- JS
