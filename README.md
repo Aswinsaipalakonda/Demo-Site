@@ -3,6 +3,6 @@ This is a demo site for home 🏡 tutions.
 
 ## Tech Stack 
 
-- HTML
+- HTML5
 - CSS
 - JS
