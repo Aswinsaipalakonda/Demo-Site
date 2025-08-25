@@ -7,4 +7,4 @@ This is a demo site for home 🏡 tutions.
 - CSS3
 - JS (Vannilla)
 
-## Main 
+## Main features 
