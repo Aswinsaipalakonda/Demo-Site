@@ -4,5 +4,5 @@ This is a demo site for home 🏡 tutions.
 ## Tech Stack 
 
 - HTML5
-- CSS
+- CSS3
 - JS
