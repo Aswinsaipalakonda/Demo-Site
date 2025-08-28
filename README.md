@@ -8,5 +8,3 @@ This is a demo site for home 🏡 tutions.
 - JS (Vannilla)
 
 ## Main features 
-
-- Ful
